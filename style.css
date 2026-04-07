@@ -1,0 +1,27 @@
+body {
+    background-color: lightblue;
+    font-family: Arial;
+    text-align: center;
+}
+
+h1 {
+    color: darkblue;
+}
+
+.titulo-hobby {
+    color: green;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 15px;
+}
+
+.item1:hover {
+    color: red;
+
+}
