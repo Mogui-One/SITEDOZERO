@@ -1,27 +1,16 @@
-body {
-    background-color: lightblue;
-    font-family: Arial;
+body{
+    background-color: black;
     text-align: center;
 }
 
 h1 {
-    color: darkblue;
+    color: antiquewhite;
 }
 
-.titulo-hobby {
-    color: green;
+h6 {
+    color: antiquewhite;
 }
 
 ul {
-    list-style: none;
-    padding: 0;
-}
-
-li {
-    margin: 15px;
-}
-
-.item1:hover {
-    color: red;
-
+    color: aliceblue;
 }
